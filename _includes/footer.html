@@ -2,18 +2,12 @@
 
   <div class="wrapper">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">subscribe via RSS</a></p>
-      </div>
+    <div>
+      <p>{{ site.description | escape }}</p>
+    </div>
 
-      <div class="footer-col footer-col-2">
-        
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
+    <div>
+      <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">subscribe via RSS</a></p>
     </div>
 
   </div>
