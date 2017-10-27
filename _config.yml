@@ -13,11 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Orthodox Snippets
-description: >- # this means to ignore newlines until "baseurl:"
-  Orthodox Snippets is a blog that discusses a range of topics concerning Orthodox Christianity.
-  Topics include philosophy, theology, patristics, Orthodox spirituality, and apologetics.
-  Blog posts are meant to be short and simple rather than be full references or treatises on particular topics (hence the name "snippets").
+# title: Orthodox Snippets
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Orthodox Snippets is a blog that discusses a range of topics concerning Orthodox Christianity.
+#   Topics include philosophy, theology, patristics, Orthodox spirituality, and apologetics.
+#   Blog posts are meant to be short and simple rather than be full references or treatises on particular topics (hence the name "snippets").
+title: Title here
+description: Description here
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
