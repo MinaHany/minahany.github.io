@@ -14,11 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Orthodox Snippets
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Orthodox Snippets is a blog that discusses a range of topics concerning Orthodox Christianity.
+  Topics include philosophy, theology, patristics, Orthodox spirituality, and apologetics.
+  Blog posts are meant to be short and simple rather than be full references or treatises on particular topics (hence the name "snippets").
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
