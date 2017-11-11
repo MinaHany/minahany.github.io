@@ -1,0 +1,9 @@
+post__img--right {
+	float: right;
+	margin-left: 20px;
+}
+
+post__img--left {
+	float: left;
+	margin-right: 20px;
+}
