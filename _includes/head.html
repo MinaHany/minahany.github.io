@@ -23,15 +23,11 @@
   
   <script>
       //1
-      {{ page_excerpt }}
-      //2
       {{ page.content }}
+      //2
+      {{ page.content | split: '<!--excerpt-->' }}
       //3
-      {{ site.description }}
-      //4
-      {{ post.excerpt }}
-      //5
-      {{ post.content }}
+      {{ page.content | split: '<!--excerpt-->' | first }}
   </script>
 
   {% if jekyll.environment == 'production' and site.google_analytics %}
