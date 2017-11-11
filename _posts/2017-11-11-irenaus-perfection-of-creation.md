@@ -14,7 +14,7 @@ But inasmuch as they are not uncreated, for this very reason do they come short 
 these things are of later date, so are they infantile; so are they unaccustomed to, and unexercised in, perfect 
 discipline. For as it certainly is in the power of a mother to give strong food to her infant, [but she does not 
 do so], as the child is not yet able to receive more substantial nourishment; so also it was possible for God 
-Himself to have made man perfect from the first, but man could not receive this [perfection], being as yet 
+Himself to have made man perfect from the first, but man could not receive this, being as yet 
 an infant. And for this cause our Lord in these last times, when He had summed up all things into Himself, 
 came to us, not as He might have come, but as we were capable of beholding Him. He might easily have 
 come to us in His immortal glory, but in that case we could never have endured the greatness of the glory; 
