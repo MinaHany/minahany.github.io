@@ -9,10 +9,8 @@ categories: patristics theology soteriology creation
 beginning?” let him know that, inasmuch as God is indeed always the same and unbegotten as respects 
 Himself, all things are possible to Him. But created things must be inferior to Him who created them, from 
 the very fact of their later origin; for it was not possible for things recently created to have been uncreated. 
-
 <!--excerpt-->
-
->But inasmuch as they are not uncreated, for this very reason do they come shortof the perfect. Because, as 
+But inasmuch as they are not uncreated, for this very reason do they come short of the perfect. Because, as 
 these things are of later date, so are they infantile; so are they unaccustomed to, and unexercised in, perfect 
 discipline. For as it certainly is in the power of a mother to give strong food to her infant, [but she does not 
 do so], as the child is not yet able to receive more substantial nourishment; so also it was possible for God 
@@ -22,9 +20,9 @@ came to us, not as He might have come, but as we were capable of beholding Him. 
 come to us in His immortal glory, but in that case we could never have endured the greatness of the glory; 
 and therefore it was that He, who was the perfect bread of the Father, offered Himself to us as milk, 
 [because we were] as infants. He did this when He appeared as a man, that we, being nourished, as it were, 
-from the breast of His flesh,and having, by such a course of milk nourishment, become accustomed to eat 
+from the breast of His flesh, and having, by such a course of milk nourishment, become accustomed to eat 
 and drink the Word of God, may be able also to contain in ourselves the Bread of immortality, which is the 
-Spirit of the Father.
+Spirit of the Father[^1].
 
 >Irrational, therefore, in every respect, are they who await not the time of increase, but ascribe to God 
 the infirmity of their nature. Such persons know neither God nor themselves, being insatiable and 
@@ -44,6 +42,7 @@ the same time by His prescience He knew the infirmity of human beings, and the c
 would flow from it; but through [His] love and [His] power, He shall overcome the substance of created 
 nature. For it was necessary, at first, that nature should be exhibited; then, after that, that what was mortal 
 should be conquered and swallowed up by immortality, and the corruptible by incorruptibility, and that 
-manshould be made after the image and likeness of God, having received the knowledge of good and evil.
+man should be made after the image and likeness of God, having received the knowledge of good and evil[^2].
 
--- St Irenaeus of Lyons _Against the Heresies_ 4.38.1, 4.38.4
+[^1]: St Irenaeus of Lyons _Against the Heresies_ 4.38.1
+[^2]: St Irenaeus of Lyons _Against the Heresies_ 4.38.4
