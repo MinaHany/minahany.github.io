@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% assign page_excerpt = {{ page.content }} %}
-  {% assign description = {{ page_excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }} %}
+  {% assign description = {{ page.content | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }} %}
 
   {% if page.is_post? %}
     <meta property="og:title" content="{{ page.title | escape }}">
