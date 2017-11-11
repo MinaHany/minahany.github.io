@@ -22,7 +22,7 @@ title: Title here
 description: Description here
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-excerpt_separator: "<!--excerpt-->"
+excerpt_separator: <!--excerpt-->
 
 # Build settings
 markdown: kramdown
