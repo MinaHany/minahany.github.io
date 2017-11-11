@@ -21,6 +21,19 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   
+  <script>
+      //1
+      {{ page_excerpt }}
+      //2
+      {{ page.content }}
+      //3
+      {{ site.description }}
+      //4
+      {{ post.excerpt }}
+      //5
+      {{ post.content }}
+  </script>
+
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
