@@ -6,7 +6,7 @@ date:   2017-11-11
 categories: patristics theology soteriology creation
 ---
 
-![The creation of Man](/assets/creation-of-man.gif){:class="post__img--right"}
+![The creation of Man](/assets/creation-of-man.gif){:class="post__img post__img--right"}
 >If, however, any one say, “What then? Could not God have exhibited man as perfect from 
 beginning?” let him know that, inasmuch as God is indeed always the same and unbegotten as respects 
 Himself, all things are possible to Him. But created things must be inferior to Him who created them, from 

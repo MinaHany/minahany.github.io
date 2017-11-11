@@ -1,9 +1,13 @@
-post__img--right {
+.post__img--right {
 	float: right;
 	margin-left: 20px;
 }
 
-post__img--left {
+.post__img--left {
 	float: left;
 	margin-right: 20px;
+}
+
+.post-list li .post__img {
+	max-height: 120px;
 }
