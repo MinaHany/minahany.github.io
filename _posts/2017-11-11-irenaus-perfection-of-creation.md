@@ -22,7 +22,7 @@ and therefore it was that He, who was the perfect bread of the Father, offered H
 [because we were] as infants. He did this when He appeared as a man, that we, being nourished, as it were, 
 from the breast of His flesh, and having, by such a course of milk nourishment, become accustomed to eat 
 and drink the Word of God, may be able also to contain in ourselves the Bread of immortality, which is the 
-Spirit of the Father[^1].
+Spirit of the Father [^1].
 
 >Irrational, therefore, in every respect, are they who await not the time of increase, but ascribe to God 
 the infirmity of their nature. Such persons know neither God nor themselves, being insatiable and 
@@ -42,7 +42,7 @@ the same time by His prescience He knew the infirmity of human beings, and the c
 would flow from it; but through [His] love and [His] power, He shall overcome the substance of created 
 nature. For it was necessary, at first, that nature should be exhibited; then, after that, that what was mortal 
 should be conquered and swallowed up by immortality, and the corruptible by incorruptibility, and that 
-man should be made after the image and likeness of God, having received the knowledge of good and evil[^2].
+man should be made after the image and likeness of God, having received the knowledge of good and evil [^2].
 
 [^1]: St Irenaeus of Lyons _Against the Heresies_ 4.38.1
 [^2]: St Irenaeus of Lyons _Against the Heresies_ 4.38.4
