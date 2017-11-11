@@ -23,7 +23,7 @@
   
   <script>
    //1
-      {% assign abcdef = {{ page.content | split: '<!--excerpt-->' | first | strip_html | normalize_whitespace | truncate: 160 | escape }} %}
+      {% assign abcdef = page.content | split: '<!--excerpt-->' | first | strip_html | normalize_whitespace | truncate: 160 | escape %}
 //2
       {{ abcdef }}
       //3
