@@ -30,6 +30,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# set is_post=true for all posts
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      is_post: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
