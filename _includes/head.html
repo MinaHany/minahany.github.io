@@ -6,10 +6,10 @@
   {% assign page_excerpt = page.content | split: '<!--excerpt-->' | first %}
   {% assign description = page_excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
 
-  {% if page.is_post? %}
+  {% if page.is_post %}
     <meta property="og:title" content="{{ page.title | escape }}">
     <meta property="og:description" content="{{ description }}">
-    <meta property="og:image" content="http://euro-travel-example.com/thumbnail.jpg">
+    <meta property="og:image" content="{{ page.image }}">
     <meta property="og:url" content="{{ page.url }}">
     <meta name="twitter:card" content="summary_large_image">
   {% endif %}
