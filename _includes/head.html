@@ -5,7 +5,7 @@
 
   {% assign description = {{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }} %}
 
-  {% if page.is_post? %}
+  {% if is_post? %}
     <meta property="og:title" content="{{ page.title | escape }}">
     <meta property="og:description" content="{{ description }}">
     <meta property="og:image" content="http://euro-travel-example.com/thumbnail.jpg">
