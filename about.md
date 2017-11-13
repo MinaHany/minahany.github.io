@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Orthodox Snippets aims to explore the richness of the Patristic tradition and the beauty of Orthodox Christian worship.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Posts will cover various topics including Patristic and modern Orthodox theology, early Christianity, the New Testament, Christian liturgical worship, iconography, hymnography, and others. Posts are meant to be succinct (hence "snippets" in the name) in order to be accessible and comprehensible.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+While employing a blog format, Orthodox Snippets is not exactly a blog: posts will be mostly comprised of quotes from other works rather than self-written posts.
