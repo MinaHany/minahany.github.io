@@ -2,6 +2,19 @@ body {
 	font-family: 'Raleway', sans-serif;
 }
 
+.site-footer {
+	font-size: 15px; 
+	color: #828282;
+}
+
+.site-footer .rss, .site-footer .rss:hover {
+	text-decoration: none;
+}
+
+.site-footer .rss .text {
+	padding-left: 15px;
+}
+
 .post__img {
 	max-width: 45%;
 	padding: 10px 20px 10px 20px;
