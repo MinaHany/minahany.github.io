@@ -17,7 +17,7 @@
 title: Orthodox Snippets
 description: Orthodox Snippets aims to explore the richness of the Patristic tradition and the beauty of Orthodox Christian worship.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://orthodoxsnippets.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title.html
 excerpt_separator: <!--excerpt-->
 
