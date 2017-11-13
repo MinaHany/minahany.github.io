@@ -1,6 +1,8 @@
 <footer class="site-footer">
-	<div>
-		<p>{{ site.description | escape }}</p>
+	<div class="wrapper">
+		<div>
+			<p>{{ site.description | escape }}</p>
+		</div>
+		{% include rss.html %}
 	</div>
-	{% include rss.html %}
 </footer>
