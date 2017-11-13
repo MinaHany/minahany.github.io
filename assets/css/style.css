@@ -2,6 +2,10 @@ body {
 	font-family: 'Raleway', sans-serif;
 }
 
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
+
 .site-footer {
 	font-size: 15px; 
 	color: #828282;
@@ -12,7 +16,7 @@ body {
 }
 
 .site-footer .rss .text {
-	padding-left: 15px;
+	padding-left: 10px;
 }
 
 .post__img {
