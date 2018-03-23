@@ -7,7 +7,7 @@ categories: patristics theology soteriology creation
 ---
 
 ![The creation of Man](/assets/creation-of-man.gif){:class="post__img post__img--right"}
->If, however, any one say, “What then? Could not God have exhibited man as perfect from 
+If, however, any one say, “What then? Could not God have exhibited man as perfect from 
 beginning?” let him know that, inasmuch as God is indeed always the same and unbegotten as respects 
 Himself, all things are possible to Him. But created things must be inferior to Him who created them, from 
 the very fact of their later origin; for it was not possible for things recently created to have been uncreated. 
@@ -26,7 +26,7 @@ from the breast of His flesh, and having, by such a course of milk nourishment, 
 and drink the Word of God, may be able also to contain in ourselves the Bread of immortality, which is the 
 Spirit of the Father [^1].
 
->Irrational, therefore, in every respect, are they who await not the time of increase, but ascribe to God 
+Irrational, therefore, in every respect, are they who await not the time of increase, but ascribe to God 
 the infirmity of their nature. Such persons know neither God nor themselves, being insatiable and 
 ungrateful, unwilling to be at the outset what they have also been created —men subject to passions; but 
 go beyond the law of the human race, and before that they become men, they wish to be even now like God 
