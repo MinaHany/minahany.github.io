@@ -6,7 +6,7 @@ date:   2018-05-18
 categories: theology science history genesis scripture
 ---
 
-![Creation of Adam and Eve](/assets/creation-of-adam-eve.jpg)
+![Creation of Adam and Eve](/assets/creation-of-adam-eve.jpg){:class="post__img"}
 
 Unlike many Christians in our day, for example, the fathers generally did not doubt Adam and Eve’s historic existence; Adam was, after all, the root of the key scriptural genealogies.
 Unlike us, they had no scientific reason to doubt them as the first physical parents of humanity. Thinkers such as Origen, especially, took the literary cues of the biblical narratives as indicating an interweaving of fictive and historical material and pointed out that the “historical” tends to be completely beyond our means either to access or to prove. Yet even he, like the other fathers, when speaking genealogically, looked back to Adam. Taking this for granted, the fathers approached the narratives on the allegorical, typological, and moral levels, milking each for truth and meaning. Whatever their different conclusions about the details and historicity, they saw the narratives as telling the truth about God and created reality, about human sinfulness and the need for redemption, and ultimately about the person and work of Christ, the Son of the Father, anointed by and proclaimed in the Holy Spirit.
