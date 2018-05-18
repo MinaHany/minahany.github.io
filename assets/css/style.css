@@ -20,15 +20,16 @@ a, a:visited, a:hover, a:active {
 }
 
 .post__img {
-	max-width: 45%;
 	padding: 10px 20px 10px 20px;
 }
 
 .post__img--right {
+	max-width: 45%;
 	float: right;
 }
 
 .post__img--left {
+	max-width: 45%;
 	float: left;
 }
 
