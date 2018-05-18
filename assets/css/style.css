@@ -34,4 +34,5 @@ a, a:visited, a:hover, a:active {
 
 .post-list li .post__img {
 	max-height: 120px;
+	float: right;
 }
