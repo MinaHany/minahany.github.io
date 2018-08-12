@@ -17,12 +17,12 @@ Below is a the common texts of the hymn, a suggested Arabic translation by the a
 
 | Common English text | Suggested correction | Coptic | التصحيح المقترح | النص العربي المعتاد |
 | ------------------- | -------------------- | ------ | -------------------- | ----------------|
-| Rejoice in God our helper, praise the God of Jacob | | c | هللوا لله معيننا اهتفوا لاله يعقوب | إبتهجوا بالله معيننا هللوا لإله يعقوب |
+| Rejoice in God our helper, praise the God of Jacob | | c | تهللوا بالله معيننا هللوا لاله يعقوب | إبتهجوا بالله معيننا هللوا لإله يعقوب |
 | Jacob will rejoice, Israel will be glad | sc | c | يتهلل يعقوب ويفرح إسرائيل | فيتهلل يعقوب ويفرح إسرائيل |
-| We rejoice forever, indeed, and we also implore | sc | c | ac | نتهلل الى الابد نعم ونترجى |
-| Rejoice you vine that is ripe and blossoming | sc | c | ac | تهللى ايتها الكرمة الدسمة المثمرة |
-| My heart rejoices, my tounge also praises | sc | c | ac | قلبى يفرح من اجل لسانى بتهليل |
-| The dew and the rain and the rejoicing are due to your name | sc | c | طابور وحرمون يتهللان باسمك | الندى والمطر مدلاة على اسمك |
+| We rejoice forever, indeed, and we also implore | sc | c | يتهللون الي الابد ويسكنون برجاء | نتهلل الى الابد نعم ونترجى |
+| Rejoice you vine that is ripe and blossoming | sc | c | يا تهليلي خلصني من المحيطين بي | تهللى ايتها الكرمة الدسمة المثمرة |
+| My heart rejoices, my tounge also praises | sc | c | من أجل هذا فرح قلبي وتهلل لساني | قلبى يفرح من اجل لسانى بتهليل |
+| The dew and the rain and the rejoicing are due to your name | sc | c | تابور وحرمون سيتهللون باسمك | الندى والمطر مدلاة على اسمك |
 
 
 
