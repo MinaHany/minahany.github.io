@@ -10,7 +10,7 @@ Current translations of the hymn 'Rashi Ne - Ραϣι ⲛⲉ' are quite awkward 
 
 The hymn is constructed according to a Sahidic practice called "the great hermeneutic" where a collection of biblical passages from the Psalms that share a certain keyword are put together [^1][^2]. 
 
-In 'Rashi Ne' the six passages all have the common keyword is 'Thelil - θⲉλⲏλ' (rejoice).
+In 'Rashi Ne' the six verses echo six verses from the Psalms which have the common keyword 'Thelil - θⲉλⲏλ' (rejoice).
 
 Below is the common translations for the hymn, a proper Arabic translation [^2] and an English translation that I am suggesting based on the Arabic one:
 
