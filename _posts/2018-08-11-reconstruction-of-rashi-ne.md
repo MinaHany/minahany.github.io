@@ -18,11 +18,11 @@ Below is a the common texts of the hymn, a suggested Arabic translation by the a
 | Common English text | Suggested correction | Coptic | التصحيح المقترح | النص العربي المعتاد |
 | ------------------- | -------------------- | ------ | -------------------- | ----------------|
 | Rejoice in God our helper, praise the God of Jacob | | c | تهللوا بالله معيننا هللوا لاله يعقوب | إبتهجوا بالله معيننا هللوا لإله يعقوب |
-| Jacob will rejoice, Israel will be glad | sc | c | يتهلل يعقوب ويفرح إسرائيل | فيتهلل يعقوب ويفرح إسرائيل |
-| We rejoice forever, indeed, and we also implore | sc | c | يتهللون الي الابد ويسكنون برجاء | نتهلل الى الابد نعم ونترجى |
-| Rejoice you vine that is ripe and blossoming | sc | c | يا تهليلي خلصني من المحيطين بي | تهللى ايتها الكرمة الدسمة المثمرة |
-| My heart rejoices, my tounge also praises | sc | c | من أجل هذا فرح قلبي وتهلل لساني | قلبى يفرح من اجل لسانى بتهليل |
-| The dew and the rain and the rejoicing are due to your name | sc | c | تابور وحرمون سيتهللون باسمك | الندى والمطر مدلاة على اسمك |
+| Jacob will rejoice, Israel will be glad | Jacob will rejoice, Israel will be glad | c | يتهلل يعقوب ويفرح إسرائيل | فيتهلل يعقوب ويفرح إسرائيل |
+| We rejoice forever, indeed, and we also implore | They rejoice forever and take refuge in hope | c | يتهللون الي الابد ويسكنون برجاء | نتهلل الى الابد نعم ونترجى |
+| Rejoice you vine that is ripe and blossoming | O my rejoicing save me from those surrounding me | c | يا تهليلي خلصني من المحيطين بي | تهللى ايتها الكرمة الدسمة المثمرة |
+| My heart rejoices, my tounge also praises | For this my heart is glad and my toungue rejoices | c | من أجل هذا فرح قلبي وتهلل لساني | قلبى يفرح من اجل لسانى بتهليل |
+| The dew and the rain and the rejoicing are due to your name | Tabor and Hermon will rejoice in your name | c | تابور وحرمون سيتهللون باسمك | الندى والمطر مدلاة على اسمك |
 
 
 
