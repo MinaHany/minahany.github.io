@@ -12,6 +12,8 @@ The hymn is constructed according to a Sahidic practice called "the great hermen
 
 In 'Rashi Ne' the six verses echo six verses from the Psalms which have the common keyword 'Thelil - θⲉλⲏλ' (rejoice).
 
+It is worth mentioning that the verses are not directly about Mary (for example, "your name" in the hymn refers to God's name not Mary's). But of course what contextualises the hymn is the refrain which brings to mind the rejoicing that she had and that we in turn have in her becoming the Theotokos, the bearer of God.
+
 Below is the common translations for the hymn, a proper Arabic translation [^2] and an English translation that I am suggesting based on the Arabic one:
 
 | Common English text | Suggested correction | Reference [^3] | التصحيح المقترح | النص العربي المعتاد |
