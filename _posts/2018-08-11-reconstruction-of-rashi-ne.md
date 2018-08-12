@@ -5,26 +5,22 @@ date:   2018-08-12
 categories: theology hymnology coptic hymn sahidic
 ---
 
-This is a brief summary of a research paper by Mina Safwat Haleem entitled جولة في لحن قبطي قديم which can be consulted for more details [^1].
+Current translations of the hymn 'Rashi Ne - Ραϣι ⲛⲉ' are quite awkward whether it be in English or Arabic. This post is a brief summary how the hymn was constructed and aims to provide proper Arabic and English translations for the hymn that are more accurate than the common ones used today.
 
-Current translations of the hymn 'Rashi Ne - Ραϣι ⲛⲉ' are quite awkward whether it be in English or Arabic. The research paper aims to examine the origin and framework of the hymn in order to reconstruct a more accurate translation than the one used commonly today.
-
-The hymn is constructed according to a Sahidic practice called "the great hermeneutic" where a collection of biblical passages from the Psalms that share a certain keyword are put together. 
+The hymn is constructed according to a Sahidic practice called "the great hermeneutic" where a collection of biblical passages from the Psalms that share a certain keyword are put together [^1][^2]. 
 <!--excerpt-->
 In 'Rashi Ne' the six passages all have the common keyword 'Thelil'.
 
-Below is a the common texts of the hymn, a suggested Arabic translation by the author of the aforementioned research paper and an English translation that I suggest [^2]:
+Below is a the common texts of the hymn, an Arabic translation [^2] and an English translation that I am suggesting based on the Arabic one:
 
 | Common English text | Suggested correction | Coptic | التصحيح المقترح | النص العربي المعتاد |
 | ------------------- | -------------------- | ------ | -------------------- | ----------------|
-| Rejoice in God our helper, praise the God of Jacob | | c | تهللوا بالله معيننا هللوا لاله يعقوب | إبتهجوا بالله معيننا هللوا لإله يعقوب |
+| Rejoice in God our helper, praise the God of Jacob | Rejoice in God our helper, praise the God of Jacob | c | تهللوا بالله معيننا هللوا لاله يعقوب | إبتهجوا بالله معيننا هللوا لإله يعقوب |
 | Jacob will rejoice, Israel will be glad | Jacob will rejoice, Israel will be glad | c | يتهلل يعقوب ويفرح إسرائيل | فيتهلل يعقوب ويفرح إسرائيل |
 | We rejoice forever, indeed, and we also implore | They rejoice forever and take refuge in hope | c | يتهللون الي الابد ويسكنون برجاء | نتهلل الى الابد نعم ونترجى |
 | Rejoice you vine that is ripe and blossoming | O my rejoicing save me from those surrounding me | c | يا تهليلي خلصني من المحيطين بي | تهللى ايتها الكرمة الدسمة المثمرة |
 | My heart rejoices, my tounge also praises | For this my heart is glad and my toungue rejoices | c | من أجل هذا فرح قلبي وتهلل لساني | قلبى يفرح من اجل لسانى بتهليل |
 | The dew and the rain and the rejoicing are due to your name | Tabor and Hermon will rejoice in your name | c | تابور وحرمون سيتهللون باسمك | الندى والمطر مدلاة على اسمك |
 
-
-
-[^1]: 
-[^2]: 
+[^1]: [جولة في لحن قبطي قديم - مينا صفوت حليم](http://www.mediafire.com/file/v5bam5724wy8v7c/%D8%AC%D9%88%D9%84%D8%A9+%D9%81%D9%89+%D9%84%D8%AD%D9%86+%D9%82%D8%A8%D8%B7%D9%89+%D9%82%D8%AF%D9%8A%D9%85+2-+%D8%B1%D8%A7%D8%B4%D9%89+%D9%86%D9%8A%D9%87+%D8%B3%D9%8A%D9%86%D8%A7+%D8%B5%D8%A7%D8%AC%D9%89.pdf)
+[^2]: [ ، مجلة مدرسة الإسكندرية العدد الثاني والعشرين، القاهرة فبراير 2017، صـ197 - 211قراءة جديدة للحني ⲥⲉⲛⲁ ϣⲟ و ⲣⲁϣⲓ ⲛⲉ في ضوء الطقس الصعيدي](https://bookstore.asfcs.org/%D9%83%D8%AA%D8%A8/%d9%82%d8%b1%d8%a7%d8%a1%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d8%ad%d9%86%d9%8a-%e2%b2%a5%e2%b2%89%e2%b2%9b%e2%b2%81%ef%bf%bd%cf%a3%e2%b2%9f-%d9%88-%e2%b2%a3%e2%b2%81%cf%a3%e2%b2%93/)
