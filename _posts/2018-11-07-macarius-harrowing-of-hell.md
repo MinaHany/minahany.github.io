@@ -4,10 +4,10 @@ title: Macarius on the 'Harrowing of Hell'
 
  
 
-Even if you haven’t read the *Macarian Homilies*[^1], there’s a good chance
+Even if you haven’t read the *Macarian Homilies,*[^1] there’s a good chance
 you’ve come across this famous passage:
 
-[^1]: You can read them online here as
+[^1]: You can read them here as
 [plaintext](https://www.ecatholic2000.com/macarius/untitled-55.shtml), or here
 in a nice [facsimile
 version](https://archive.org/details/fiftyspiritualho00pseuuoft/page/n3). For a
@@ -67,15 +67,3 @@ kind of Hell, and Christ descends into this Hell to call us back to life:
 >   captive soul forth out of the dark prison.[^3]
 
 [^3]: Homily 11.11
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
