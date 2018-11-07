@@ -7,9 +7,9 @@ title: Macarius on the 'Harrowing of Hell'
 Even if you haven’t read the *Macarian Homilies*[^1], there’s a good chance
 you’ve come across this famous passage:
 
-[^1]: You can read them online here [as
-plaintext](https://www.ecatholic2000.com/macarius/untitled-55.shtml), or here in
-a nice [facsimile
+[^1]: You can read them online here as
+[plaintext](https://www.ecatholic2000.com/macarius/untitled-55.shtml), or here
+in a nice [facsimile
 version](https://archive.org/details/fiftyspiritualho00pseuuoft/page/n3). For a
 hardcopy, your best bet is the [CWS translation by GA
 Maloney](https://www.bookdepository.com/Pseudo-Macarius/9780809133123).
