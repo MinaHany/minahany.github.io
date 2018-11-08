@@ -1,18 +1,11 @@
----
-title: Macarius on the 'Harrowing of Hell'
----
+# Macarius on the Harrowing of Hell
+---  
 
- 
-
-Even if you haven’t read the *Macarian Homilies,*[^1] there’s a good chance
+  
+  Even if you haven’t read the *Macarian Homilies,*[^1] there’s a good chance
 you’ve come across this famous passage:
 
-[^1]: You can read them here as
-[plaintext](https://www.ecatholic2000.com/macarius/untitled-55.shtml), or here
-in a nice [facsimile
-version](https://archive.org/details/fiftyspiritualho00pseuuoft/page/n3). For a
-hardcopy, your best bet is the [CWS translation by GA
-Maloney](https://www.bookdepository.com/Pseudo-Macarius/9780809133123).
+[^1]: You can read them here as [plaintext](https://www.ecatholic2000.com/macarius/untitled-55.shtml), or here in a nice [facsimile version](https://archive.org/details/fiftyspiritualho00pseuuoft/page/n3). For a hardcopy, your best bet is the [CWS translation by GAMaloney](https://www.bookdepository.com/Pseudo-Macarius/9780809133123).
 
 >   The heart itself is awesome but a small vessel, yet there also are dragons
 >   and there are lions; there are poisonous beasts and all the treasures of
@@ -24,7 +17,7 @@ Maloney](https://www.bookdepository.com/Pseudo-Macarius/9780809133123).
 
 This is one of the most distinctive features of Macarius’ spiritual writings:
 his insistence each and every human heart is itself a battleground on which the
-whole story of salvation is played out. The fall of Adam, the incarnation of
+whole story of salvation is played out. <!--excerpt-->The fall of Adam, the incarnation of
 Christ, the descent of Christ into Hades, the preaching of the apostles; all the
 events of 'salvation history’ occur *in our own hearts*.
 
