@@ -3,6 +3,19 @@ layout: post
 title:  "Macarius on the Harrowing of Hell"
 date:   2018-11-08
 categories: fathers easter scripture
+excerpt: |
+    Even if you haven’t read the *Macarian Homilies,* there’s a good chance
+    you’ve come across this famous passage:
+
+    >   The heart itself is awesome but a small vessel, yet there also are dragons
+    >   and there are lions; there are poisonous beasts and all the treasures of
+    >   evil. And there are rough and uneven roads; there are precipices. But there
+    >   is also God, also the angels, the life and the kingdom, the light and the
+    >   Apostles, the treasures of grace – there are all things.
+
+    This is one of the most distinctive features of Macarius’ spiritual writings:
+    his insistence each and every human heart is itself a battleground on which the
+    whole story of salvation is played out.
 ---
 
 Even if you haven’t read the *Macarian Homilies,*[^1] there’s a good chance
@@ -16,7 +29,7 @@ you’ve come across this famous passage:
 
 This is one of the most distinctive features of Macarius’ spiritual writings:
 his insistence each and every human heart is itself a battleground on which the
-whole story of salvation is played out.<!--excerpt-->The fall of Adam, the incarnation of
+whole story of salvation is played out.<!--excerpt--> The fall of Adam, the incarnation of
 Christ, the descent of Christ into Hades, the preaching of the apostles; all the
 events of 'salvation history’ occur *in our own hearts*.
 
