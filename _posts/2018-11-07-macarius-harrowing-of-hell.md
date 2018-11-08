@@ -8,15 +8,11 @@ categories: fathers easter scripture
 Even if you haven’t read the *Macarian Homilies,*[^1] there’s a good chance
 you’ve come across this famous passage:
 
-[^1]: You can read them here as[plaintext](https://www.ecatholic2000.com/macarius/untitled-55.shtml), or here in a nice [facsimile version](https://archive.org/details/fiftyspiritualho00pseuuoft/page/n3). For a hardcopy, your best bet is the [CWS translation by GAMaloney](https://www.bookdepository.com/Pseudo-Macarius/9780809133123).
-
 >   The heart itself is awesome but a small vessel, yet there also are dragons
 >   and there are lions; there are poisonous beasts and all the treasures of
 >   evil. And there are rough and uneven roads; there are precipices. But there
 >   is also God, also the angels, the life and the kingdom, the light and the
 >   Apostles, the treasures of grace – there are all things.[^2]
-
-[^2]: Homily 43.7
 
 This is one of the most distinctive features of Macarius’ spiritual writings:
 his insistence each and every human heart is itself a battleground on which the
@@ -62,4 +58,6 @@ kind of Hell, and Christ descends into this Hell to call us back to life:
 >   He opens the tombs. He truly raises to life the dead person and leads that
 >   captive soul forth out of the dark prison.[^3]
 
+[^1]: You can read them here as [plaintext](https://www.ecatholic2000.com/macarius/untitled-55.shtml), or here in a nice [facsimile version](https://archive.org/details/fiftyspiritualho00pseuuoft/page/n3). For a hardcopy, your best bet is the [CWS translation by GAMaloney](https://www.bookdepository.com/Pseudo-Macarius/9780809133123).
+[^2]: Homily 43.7
 [^3]: Homily 11.11
