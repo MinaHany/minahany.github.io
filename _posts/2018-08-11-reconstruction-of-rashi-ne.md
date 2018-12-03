@@ -16,7 +16,7 @@ It is worth mentioning that the verses are not directly about Mary (for example,
 
 Below is the common translations for the hymn, a proper Arabic translation [^2] and an English translation that I am suggesting based on the Arabic one:
 
-| Common English text | Suggested correction | Reference [^3] | التصحيح المقترح | النص العربي المعتاد |
+| Common English text | Suggested correction | Reference [^3] | Coptic | التصحيح المقترح | النص العربي المعتاد |
 | ------------------- | -------------------- | ------ | -------------------- | ----------------|
 | Rejoice in God our helper, praise the God of Jacob | Rejoice in God our helper, praise the God of Jacob | Psalm 81:1 | Ⲑⲉⲗⲏⲗ ⲙⲫⲛⲟⲩϯ ⲡⲉⲛⲃⲟⲏⲑⲟⲥ ϯⲓⲗⲁⲗⲟⲓ ⲙⲫⲛⲟⲩϯ ⲛⲓⲁⲕⲱⲃ | تهللوا بالله معيننا هللوا لاله يعقوب | إبتهجوا بالله معيننا هللوا لإله يعقوب |
 | Jacob will rejoice, Israel will be glad | Jacob will rejoice, Israel will be glad | Psalm 14:7 | Ϥⲛⲁⲑⲉⲗⲏⲗ ̀ⲛϫⲉ Ⲓⲁⲕⲱⲃ ̀ϥⲛⲁⲟⲩⲛⲟϥ ̀ⲛϫⲉ ⲡⲓⲥⲣⲁⲏⲗ | يتهلل يعقوب ويفرح إسرائيل | فيتهلل يعقوب ويفرح إسرائيل |
